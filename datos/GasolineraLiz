@@ -1,0 +1,13 @@
+tipo:tipo4:19000:30000.0
+tipo:corriente:10000000:2.0
+tipo:Diesel:200000:1000.0
+tipo:tipo3:2000000:33333.0
+surtidor:Liz:tipo4:0.0:corriente:0.0:Diesel:0.0:tipo3:0.0
+surtidor:Liz:tipo4:0.0:corriente:0.0:Diesel:0.0:tipo3:0.0
+surtidor:Pepito:tipo4:0.0:corriente:0.0:Diesel:0.0:tipo3:0.0
+surtidor:Pepito:tipo4:0.0:corriente:0.0:Diesel:0.0:tipo3:0.0
+empleado:Pepita:0
+empleado:Liz:0
+empleado:Pepito:0
+empleado:Eriksito:0
+empleado:Manu:0
